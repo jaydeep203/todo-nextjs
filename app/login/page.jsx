@@ -59,9 +59,6 @@ const Page = () => {
   )
 }
 
-export const metadata = {
-  title: 'Login',
-  description: 'This is login page of a TodoApp project made in Next.js',
-}
+
 
 export default Page
